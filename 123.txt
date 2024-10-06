@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Trainning C
 06/10/2024
+=======
+Trainning C for Seniors 
+>>>>>>> bffb9514a610d50825240db36fd71e5c8daf1db1
